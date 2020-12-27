@@ -1,0 +1,5 @@
+{
+    "sketch": "lcd_hx711.ino",
+    "board": "arduino:avr:uno",
+    "port": "/dev/ttyUSB0"
+}

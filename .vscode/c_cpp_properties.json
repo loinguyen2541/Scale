@@ -1,0 +1,26 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "/home/loinv/Arduino/libraries/LCD5110_Graph",
+                "/snap/arduino/current/tools/**",
+                "/home/loinv/Arduino/libraries/**",
+                "/snap/arduino/current/libraries/**",
+                "/snap/arduino/current/hardware/tools/**",
+                "/snap/arduino/current/hardware/arduino/avr/**"
+            ],
+            "forcedInclude": [
+                "/snap/arduino/current/hardware/arduino/avr/cores/arduino/Arduino.h"
+            ],
+            "defines": [
+                "USBCON"
+            ],
+            "intelliSenseMode": "gcc-x64",
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "gnu17",
+            "cppStandard": "gnu++14"
+        }
+    ],
+    "version": 4
+}
